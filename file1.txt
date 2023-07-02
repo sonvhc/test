@@ -1,4 +1,6 @@
 
+son2.vu sửa lại source code trên server github
+
 sửa file 1 trên git hub
 
 sửa file1 ở local
